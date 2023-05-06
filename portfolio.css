@@ -134,7 +134,7 @@
     background: rgba(0, 0, 0, 0.7);
     /* background: white; */
     color: wheat;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     
 }
 .contact-me .cont{
@@ -143,7 +143,7 @@
     justify-content: center;
 }
 .contact-me h1{
-    font-size: 40px;
+    font-size: 1px;
     font-weight: 500;
     text-align: center;
 }
@@ -153,7 +153,7 @@
 }
 .contact-me .detail h3{
     text-align: center;
-    font-weight: 600;
+    font-weight: 200;
     font-size: 30px;
 }
 .contact-me input{
