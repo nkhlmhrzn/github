@@ -1,0 +1,24 @@
+ls => listing all the files in current directory
+
+git init => repo initialize
+
+ls -a
+
+git add . => all file staging area => . all files in current directory
+
+git commit -m "message" => create a copy of current code (snapshot)
+
+git log => list all commit 
+
+git remote add origin https://github.com/nkhlmhrzn/github.git => links local repo to remote repo
+
+git remote -v => lists all the linked remote repos
+
+git push origin branch_name
+
+git branch => list all the branches
+
+future commits :
+- git add.
+- git commit -m "message"
+- git push origin branch_name
